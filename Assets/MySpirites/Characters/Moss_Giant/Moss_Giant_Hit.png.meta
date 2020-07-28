@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: ac6a5255c9102bb4da4b2a33080a8d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4087981402193817545
+    second: Moss_Giant_Hit_0
+  - first:
+      213: 7572937929164385106
+    second: Moss_Giant_Hit_1
+  - first:
+      213: -2533808842849167936
+    second: Moss_Giant_Hit_2
+  - first:
+      213: 2511660662343498345
+    second: Moss_Giant_Hit_3
+  - first:
+      213: 6378794034342494649
+    second: Moss_Giant_Hit_4
+  - first:
+      213: -3044944283907361452
+    second: Moss_Giant_Hit_5
+  - first:
+      213: 5471534068880056511
+    second: Moss_Giant_Hit_6
+  - first:
+      213: 8149854954388087958
+    second: Moss_Giant_Hit_7
+  - first:
+      213: -6814202433808841551
+    second: Moss_Giant_Hit_8
+  - first:
+      213: 4536708375308148646
+    second: Moss_Giant_Hit_9
+  - first:
+      213: -6535302196864826803
+    second: Moss_Giant_Hit_10
+  - first:
+      213: -5375303645254722855
+    second: Moss_Giant_Hit_11
+  - first:
+      213: -6262362719421360985
+    second: Moss_Giant_Hit_12
+  - first:
+      213: -7303497658077528236
+    second: Moss_Giant_Hit_13
+  - first:
+      213: 7302170649343870744
+    second: Moss_Giant_Hit_14
+  - first:
+      213: 4598577825580531659
+    second: Moss_Giant_Hit_15
+  - first:
+      213: -4633189804379848214
+    second: Moss_Giant_Hit_16
+  - first:
+      213: 2206600590513297253
+    second: Moss_Giant_Hit_17
+  - first:
+      213: 6593509198630630427
+    second: Moss_Giant_Hit_18
+  - first:
+      213: -630861181830245299
+    second: Moss_Giant_Hit_19
+  - first:
+      213: 1101767701626617759
+    second: Moss_Giant_Hit_20
+  - first:
+      213: 4380209041207767206
+    second: Moss_Giant_Hit_21
+  - first:
+      213: -600369600688793062
+    second: Moss_Giant_Hit_22
+  - first:
+      213: 5690464544157915584
+    second: Moss_Giant_Hit_23
+  - first:
+      213: -6226525479542179352
+    second: Moss_Giant_Hit_24
+  - first:
+      213: 5811259363526872448
+    second: Moss_Giant_Hit_25
+  - first:
+      213: -835908464444342796
+    second: Moss_Giant_Hit_26
+  - first:
+      213: -8420085521645704387
+    second: Moss_Giant_Hit_27
+  - first:
+      213: -6569018225263206586
+    second: Moss_Giant_Hit_28
+  - first:
+      213: -7167246876515730333
+    second: Moss_Giant_Hit_29
+  - first:
+      213: -4816339475239304111
+    second: Moss_Giant_Hit_30
+  - first:
+      213: 179139168709396680
+    second: Moss_Giant_Hit_31
+  - first:
+      213: 6911605758533468852
+    second: Moss_Giant_Hit_32
+  - first:
+      213: 3061195833320838772
+    second: Moss_Giant_Hit_33
+  - first:
+      213: -7359725420962920358
+    second: Moss_Giant_Hit_34
+  - first:
+      213: -3563930187881111995
+    second: Moss_Giant_Hit_35
+  - first:
+      213: -9102014707763033885
+    second: Moss_Giant_Hit_36
+  - first:
+      213: -1010887728574110270
+    second: Moss_Giant_Hit_37
+  - first:
+      213: 3373214465267636481
+    second: Moss_Giant_Hit_38
+  - first:
+      213: 2543519149681779568
+    second: Moss_Giant_Hit_39
+  - first:
+      213: 7633605005983142894
+    second: Moss_Giant_Hit_40
+  - first:
+      213: -3513535243633894174
+    second: Moss_Giant_Hit_41
+  - first:
+      213: 1729532571000525625
+    second: Moss_Giant_Hit_42
+  - first:
+      213: 675660557067083703
+    second: Moss_Giant_Hit_43
+  - first:
+      213: -6269881071119520403
+    second: Moss_Giant_Hit_44
+  - first:
+      213: 5513630030420395721
+    second: Moss_Giant_Hit_45
+  - first:
+      213: -3215247041297970908
+    second: Moss_Giant_Hit_46
+  - first:
+      213: 6918183006655546346
+    second: Moss_Giant_Hit_47
+  - first:
+      213: -3593666954253781515
+    second: Moss_Giant_Hit_48
+  - first:
+      213: -2097310990222290819
+    second: Moss_Giant_Hit_49
+  - first:
+      213: 5712603023589708193
+    second: Moss_Giant_Hit_50
+  - first:
+      213: 7333000130412887768
+    second: Moss_Giant_Hit_51
+  - first:
+      213: 7712485520420142204
+    second: Moss_Giant_Hit_52
+  - first:
+      213: -4535825492743930955
+    second: Moss_Giant_Hit_53
+  - first:
+      213: 375570583379489436
+    second: Moss_Giant_Hit_54
+  - first:
+      213: 8780898742675776096
+    second: Moss_Giant_Hit_55
+  - first:
+      213: 204547628358593479
+    second: Moss_Giant_Hit_56
+  - first:
+      213: 7080343646974448525
+    second: Moss_Giant_Hit_57
+  - first:
+      213: 5892096446684672744
+    second: Moss_Giant_Hit_58
+  - first:
+      213: -6722938876172885386
+    second: Moss_Giant_Hit_59
+  - first:
+      213: -5672045950659784575
+    second: Moss_Giant_Hit_60
+  - first:
+      213: -511963376383212925
+    second: Moss_Giant_Hit_61
+  - first:
+      213: 8819387572911408514
+    second: Moss_Giant_Hit_62
+  - first:
+      213: 6312741320066996513
+    second: Moss_Giant_Hit_63
+  - first:
+      213: 6786736538003423977
+    second: Moss_Giant_Hit_64
+  - first:
+      213: 2237080555600364660
+    second: Moss_Giant_Hit_65
+  - first:
+      213: -5492262558647093565
+    second: Moss_Giant_Hit_66
+  - first:
+      213: 1427040211025952525
+    second: Moss_Giant_Hit_67
+  - first:
+      213: 4048062732477609937
+    second: Moss_Giant_Hit_68
+  - first:
+      213: -2983683459469969507
+    second: Moss_Giant_Hit_69
+  - first:
+      213: -7138811170520839288
+    second: Moss_Giant_Hit_70
+  - first:
+      213: -3024735531229238790
+    second: Moss_Giant_Hit_71
+  - first:
+      213: -6603469040084251561
+    second: Moss_Giant_Hit_72
+  - first:
+      213: 1100368590388475084
+    second: Moss_Giant_Hit_73
+  - first:
+      213: -4755941516392409041
+    second: Moss_Giant_Hit_74
+  - first:
+      213: 6176948088465428172
+    second: Moss_Giant_Hit_75
+  - first:
+      213: -9128846220777970229
+    second: Moss_Giant_Hit_76
+  - first:
+      213: 6254946233456710348
+    second: Moss_Giant_Hit_77
+  - first:
+      213: 8929759309086227403
+    second: Moss_Giant_Hit_78
+  - first:
+      213: -4964454699313930607
+    second: Moss_Giant_Hit_79
+  - first:
+      213: 265525759462190331
+    second: Moss_Giant_Hit_80
+  - first:
+      213: -8708331536124215855
+    second: Moss_Giant_Hit_81
+  - first:
+      213: 4789049643024875640
+    second: Moss_Giant_Hit_82
+  - first:
+      213: -5158235845920082645
+    second: Moss_Giant_Hit_83
+  - first:
+      213: -3996995520821466899
+    second: Moss_Giant_Hit_84
+  - first:
+      213: 1741108616665639588
+    second: Moss_Giant_Hit_85
+  - first:
+      213: -41389273072361622
+    second: Moss_Giant_Hit_86
+  - first:
+      213: 7610932521332073805
+    second: Moss_Giant_Hit_87
+  - first:
+      213: -486911995002603688
+    second: Moss_Giant_Hit_88
+  - first:
+      213: 2179873023993310817
+    second: Moss_Giant_Hit_89
+  - first:
+      213: -9086956269895634497
+    second: Moss_Giant_Hit_90
+  - first:
+      213: -470064266798233626
+    second: Moss_Giant_Hit_91
+  - first:
+      213: 6356381645265678344
+    second: Moss_Giant_Hit_92
+  - first:
+      213: -7814549157310328939
+    second: Moss_Giant_Hit_93
+  - first:
+      213: 6706756437776853379
+    second: Moss_Giant_Hit_94
+  - first:
+      213: 5495115227019452078
+    second: Moss_Giant_Hit_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6a2e1d6d6bb830800000000000000
+      internalID: 4087981402193817545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bece56cea781960800000000000000
+      internalID: 7572937929164385106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55b39384a16dcd0800000000000000
+      internalID: -2533808842849167936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7e47a0163bd220800000000000000
+      internalID: 2511660662343498345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b18d50c067068850800000000000000
+      internalID: 6378794034342494649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45578dc7e4f2eb5d0800000000000000
+      internalID: -3044944283907361452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02b080f3bceeb40800000000000000
+      internalID: 5471534068880056511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6946247b6e91a1170800000000000000
+      internalID: 8149854954388087958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c8395df61f61a0800000000000000
+      internalID: -6814202433808841551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af18c71b30a5fe30800000000000000
+      internalID: 4536708375308148646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ca080741fd45a0800000000000000
+      internalID: -6535302196864826803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dadab070d51765b0800000000000000
+      internalID: -5375303645254722855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49d3e394e9719a0800000000000000
+      internalID: -6262362719421360985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f34685393c4aa90800000000000000
+      internalID: -7303497658077528236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817cc6b5485865560800000000000000
+      internalID: 7302170649343870744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf37b50b2e61df30800000000000000
+      internalID: 4598577825580531659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
